@@ -1,3 +1,5 @@
+![GitHub all releases](https://img.shields.io/github/downloads/NeonOceAu/neon_scoreboard/total?color=blue&style=flat-square)
+
 # Neon Scoreboard for ESX & QBCore
 
 ## Overview
